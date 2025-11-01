@@ -1,7 +1,7 @@
 
 
 
-Get-NetFirewallRule -DisplayName "*HTTP*" | Select-Object DisplayName, Enabled, Direction
+
 
 
 
